@@ -1,0 +1,17 @@
+Lecture 01:
+===============
+
+Before Class:
+-------------
+
+-I read chapters of Introduction and Unix.
+-Leant the history of Unix and how other version got generated.
+
+open question:
+Now that there are many jobs a system administrator can do, then what will we mainly learn about in this course?It mainly focuses on hard devices or server configuration?
+
+
+After class:
+------------
+
+-I learnt Unix histories and know better about the difference between Unix systems and Linux systems.

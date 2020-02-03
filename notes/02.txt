@@ -1,0 +1,16 @@
+Lecture 02:
+===============
+
+Before Class:
+-------------
+
+-I reviewed concepts of filesystems, outside storage methods, and some hard disk interfaces.
+-learnt about EBS volumes and instance storage volumes(less durable).
+
+open question:
+-In hw01, we are asked to fill up the available disk to see if we can still run the instance. My puzzle is, since it is the outside storage (disk) that is used up instead of memories, I cannot see why there is possibility that we cannot run the instance.
+-The methods I found online to create a big file to use up the disk are not helpful.
+
+
+After class:
+------------
