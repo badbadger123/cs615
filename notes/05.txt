@@ -1,0 +1,10 @@
+Lecture 05
+============
+
+Before Class
+-------------
+1. IPv4 and CIDR
+2. OSI stack
+
+open questions:
+1. what is ASN?
