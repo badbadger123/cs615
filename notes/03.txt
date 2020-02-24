@@ -1,0 +1,22 @@
+Lecture03
+=============
+
+Before class
+----------------
+1.Get to know firmware is also a type of software. It is different from drivers.
+
+2./bin: the executable programs all users can access.
+
+3.the computer boot up process
+
+4. Master Boot Record: 55AA
+
+open questions:
+what can go wrong during the computer rebooting process?
+and how to fix it?
+
+After class
+---------------
+1. In the NetBSD, we don't have to partition the disk. As long as we have a filesystem, we can read or write into the disk.
+
+ 
