@@ -8,3 +8,19 @@ Before Class
 
 open questions:
 1. what is ASN?
+the autonomous System numbers that belong to each ISP
+
+After Class
+---------------
+1.In this class, I learnt to how to use tcpdum and analysis the original packet in hex.
+2. IPv6
+3. CIDR and subnets
+
+4. IANA is in charge of managing global IPs and root zones;
+RIRs assign IP blocks to LIRs.( ISPs or big organizations using lots of IPs)
+
+5.networking between 2 AS.
+
+6. traceroute to identify the phisical aspects of the network traffic.
+
+

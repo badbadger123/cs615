@@ -1,0 +1,21 @@
+Lecture 06
+===========
+
+Before Class
+------------
+1. to telnet a host, firstly it will use DNS protocol to query the host name and translate the domain name into IP addr. Then TCP 3-way handshake will happen to build up a connection between 2 hosts.
+
+2.ARP spoofing:
+By forging IP address and MAC address to realize ARP spoofing, a large number of ARP traffic can be generated in the network to block the network. As long as the attacker continuously sends a forged ARP response packet, he can change the IP-MAC entry in the ARP cache of the target host, resulting in network interruption or man in the middle attack. 
+
+
+
+
+open question:
+------------------
+the way to avoid ARP spoofing:
+Bind MAC address
+Use static ARP to cache tables
+Use the ARP server to look up the ARP conversion table through the server in response to the broadcast from other machines
+
+
