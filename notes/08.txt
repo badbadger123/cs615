@@ -1,0 +1,15 @@
+lecture 08
+=============
+
+Before Class:
+--------------
+1. previewed silde 8.
+2. Did some research about TLS and email protocol.
+
+open question:
+---------------
+1. What's the history of SSL, TLS and https?
+2. What's the current applied security mechanism for http secure and emai secure?
+
+
+
