@@ -18,4 +18,8 @@ Bind MAC address
 Use static ARP to cache tables
 Use the ARP server to look up the ARP conversion table through the server in response to the broadcast from other machines
 
-
+After Class:
+--------------
+1. Use telnet to initiate http request: telnet www.steves.edu 80
+2. OSI stack
+3. TCP/IP Basics: ARP, ND, ICMP ( traceroure, ping), TCP, UDP

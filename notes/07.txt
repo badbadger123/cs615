@@ -1,0 +1,24 @@
+lecture 07:
+============
+
+Before Class:
+---------------
+1. preview the sile 7
+2. research how IANA manage root servers and who is in charfe of TLD servers. How do these are assigned.
+
+After Class:
+-------------
+1. Domain name is divided by "."; root domain server -> TLD server
+2. IANA manage the root zone(.), arpa;
+gTLD handle gTLDs;
+ccTLD handle ccTLDs;
+ICANN accredits domain name registries.
+3.client-> local dns server: recursive query
+local dns server -> other dns server: iteration query
+4. There are more than 13 root servers.
+5. DNS RR records:
+AAAA,A,CNAME,PTR
+6.DNS Security: DNS over HTTPS, DNS over TLS
+7. HTTP protocol: request and response
+
+
